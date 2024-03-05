@@ -27,8 +27,8 @@ Welcome to the Cybersecurity Tools Cheatsheet repository! This repository serves
 19. [Firewalk](https://www.linkedin.com/posts/tharunaditya-anuganti_doona-activity-7168666771166625793-vML_?utm_source=share&utm_medium=member_desktop)
 20. [Routersploit](https://www.linkedin.com/posts/tharunaditya-anuganti_routersploit-activity-7168992579512987648--WI4?utm_source=share&utm_medium=member_desktop)
 21. [SQLmap](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscyberchallenge-interested-activity-7169656269555818497-y18m?utm_source=share&utm_medium=member_desktop)
-
 22. [Nikto](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscyberchallenge-nikto-websecurity-activity-7170120496540241921-bt7y?utm_source=share&utm_medium=member_desktop)
+23. [OpenVAS](https://www.linkedin.com/posts/tharunaditya-anuganti_openvas-cheatsheet-by-tharunaditya-anuagnti-activity-7170858750763806720-516x?utm_source=share&utm_medium=member_desktop)
 ## How to Contribute
 
 If you have any suggestions for additional cybersecurity tools or improvements to the existing content, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
