@@ -29,7 +29,13 @@ Welcome to the Cybersecurity Tools Cheatsheet repository! This repository serves
 21. [SQLmap](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscyberchallenge-interested-activity-7169656269555818497-y18m?utm_source=share&utm_medium=member_desktop)
 22. [Nikto](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscyberchallenge-nikto-websecurity-activity-7170120496540241921-bt7y?utm_source=share&utm_medium=member_desktop)
 23. [OpenVAS](https://www.linkedin.com/posts/tharunaditya-anuganti_openvas-cheatsheet-by-tharunaditya-anuagnti-activity-7170858750763806720-516x?utm_source=share&utm_medium=member_desktop)
+24. [Maltego](https://www.linkedin.com/posts/tharunaditya-anuganti_maltego-ir-handbook-activity-7171748761264672768-aLbo?utm_source=share&utm_medium=member_desktop)
+25. [SQLninja](https://www.linkedin.com/posts/tharunaditya-anuganti_sqlninja-activity-7172983112295985154-we28?utm_source=share&utm_medium=member_desktop)
+26. [SQL injection](https://www.linkedin.com/posts/tharunaditya-anuganti_sql-injection-activity-7173712261633568768-A2JQ?utm_source=share&utm_medium=member_desktop)
+27. [OWASP ZAP](https://www.linkedin.com/posts/tharunaditya-anuganti_zap-guide-by-owasp-activity-7174828037962694657-B-tT?utm_source=share&utm_medium=member_desktop)
+
 ## How to Contribute
+
 
 If you have any suggestions for additional cybersecurity tools or improvements to the existing content, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
