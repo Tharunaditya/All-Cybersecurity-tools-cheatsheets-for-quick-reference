@@ -34,7 +34,8 @@ Welcome to the Cybersecurity Tools Cheatsheet repository! This repository serves
 26. [SQL injection](https://www.linkedin.com/posts/tharunaditya-anuganti_sql-injection-activity-7173712261633568768-A2JQ?utm_source=share&utm_medium=member_desktop)
 27. [OWASP ZAP](https://www.linkedin.com/posts/tharunaditya-anuganti_zap-guide-by-owasp-activity-7174828037962694657-B-tT?utm_source=share&utm_medium=member_desktop)
 28. [Ghidra](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscyberchallenge-ghidra-reverseengineering-activity-7177760803821875202-Lbqx?utm_source=share&utm_medium=member_desktop)
-29. [tcpdump](https://www.linkedin.com/posts/tharunaditya-anuganti_tcpdump-activity-7178122190083534849-ZnYn?utm_source=share&utm_medium=member_desktop)  
+29. [tcpdump](https://www.linkedin.com/posts/tharunaditya-anuganti_tcpdump-activity-7178122190083534849-ZnYn?utm_source=share&utm_medium=member_desktop)
+30. [King Phisher](https://www.linkedin.com/posts/tharunaditya-anuganti_king-phisher-activity-7179168126020853761-HGZH?utm_source=share&utm_medium=member_desktop)
 ## How to Contribute
 
 
