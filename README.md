@@ -41,6 +41,7 @@ Welcome to the Cybersecurity Tools Cheatsheet repository! This repository serves
 32. [Dirbuster](https://www.linkedin.com/posts/tharunaditya-anuganti_cybersecurity-webapplication-pentesters-activity-7195104507414892544-78R_?utm_source=share&utm_medium=member_desktop)
 33. [Aquastone](https://www.linkedin.com/posts/tharunaditya-anuganti_github-tharunadityaall-cybersecurity-tools-cheatsheets-for-quick-reference-activity-7199827015540121600-5mIt?utm_source=share&utm_medium=member_desktop)
 34. [OSINT framework](https://www.linkedin.com/posts/tharunaditya-anuganti_day-34-the-art-of-open-source-eyes-leveraging-activity-7211052144391512067-sK0m?utm_source=share&utm_medium=member_desktop)
+35. [Wappalyzer](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100tools-activity-7240473574908575745-wxao?utm_source=share&utm_medium=member_desktop)
 ## How to Contribute
 
 
