@@ -44,8 +44,17 @@ Welcome to the Cybersecurity Tools Cheatsheet repository! This repository serves
 35. [Wappalyzer](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100tools-activity-7240473574908575745-wxao?utm_source=share&utm_medium=member_desktop)
 36. [Recon-ng](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscybersecuritychallenge-cybersecurity-activity-7253846580372389888-kPu0?utm_source=share&utm_medium=member_desktop)
 37. [theHarvester](https://www.linkedin.com/posts/tharunaditya-anuganti_cybersecurity-osint-theharvester-activity-7258195046108180480-QIGo?utm_source=share&utm_medium=member_desktop)
+38. [FlareVM & Remnux](https://www.linkedin.com/posts/tharunaditya-anuganti_reverse-engineer-like-a-pro-activity-7299088036582043648-ol0D?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+39. [Cyberchef](https://www.linkedin.com/posts/tharunaditya-anuganti_cyberchef-activity-7317998824679972864-T14F?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+40. [Exiftool](https://www.linkedin.com/posts/tharunaditya-anuganti_exiftool-activity-7318469386728587264-Jkt8?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+41. [MITRE ATT&CK Navigator](https://www.linkedin.com/posts/tharunaditya-anuganti_mitre-attck-activity-7319277666161807360-068l?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+42. [Yara](https://www.linkedin.com/posts/tharunaditya-anuganti_yara-activity-7319649455622737920-oVp7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+43. [Arkime](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscybersecurity-networksecurity-activity-7320062519820124161-6ZXE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+44. [Chainsaw](https://www.linkedin.com/posts/tharunaditya-anuganti_100days100toolscybersecurity-dfir-chainsaw-activity-7320494873206214659-GtW-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+45. [TheHive](https://www.linkedin.com/posts/tharunaditya-anuganti_thehive-activity-7321109288381308929-UAfv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+46. [Velociraptor](https://www.linkedin.com/posts/tharunaditya-anuganti_velociraptor-activity-7321464604176359424-K--n?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
+47. [FleetDM](https://www.linkedin.com/posts/tharunaditya-anuganti_fleetdm-activity-7321810113634144256-PTT6?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQKASIBO9OfUec_4rBOLFTl5z7TX3H3Yss)
 ## How to Contribute
-
 
 If you have any suggestions for additional cybersecurity tools or improvements to the existing content, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
